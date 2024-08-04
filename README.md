@@ -1,4 +1,6 @@
-![alt text](<assets/logo & text white@2x.png>)
+<div style="text-align: center;">
+    <img src="assets/logo & text white@2x.png" alt="grid">
+</div>
 
 By team ROUND https://round-ai.github.io/
 
