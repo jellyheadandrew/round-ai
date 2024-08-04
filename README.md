@@ -10,6 +10,8 @@ We aim to help researchers and developers can maximize the usage of AI datasets 
 - **2024.08.04** Initial release!
 - **(ETA) 2024.08.10** GUI features will be released!
 
+<h1>WORK IN PROGRESS</h1>
+
 <h3>Installation</h3>
 
 To install, use `pip install -e .`
